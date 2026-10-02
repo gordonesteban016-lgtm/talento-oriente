@@ -1,0 +1,6 @@
+{
+  "name": "Talento Oriente — Auditoría UX/UI & Sistema de Empleo",
+  "description": "Auditoría integral de UX, diseño visual, reclutamiento y arquitectura de producto para Talento Oriente, la bolsa de empleo del Oriente Antioqueño.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
